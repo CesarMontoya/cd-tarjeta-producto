@@ -7,6 +7,11 @@
     "start": "parcel index.html",
     "build": "parcel build index.html"
   },
+  "repository": {
+    "url": "https://github.com/CesarMontoya/cd-tarjeta-producto",
+    "type": "git"
+  },
+  "homepage": "mochila.io",
   "dependencies": {
     "react-app-polyfill": "^1.0.0"
   },
@@ -20,5 +25,8 @@
     "@types/react-dom": "^16.8.4",
     "parcel": "^1.12.3",
     "typescript": "^3.4.5"
-  }
+  },
+  "keywords": [
+    "product", "card"
+  ]
 }
